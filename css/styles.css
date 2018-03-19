@@ -21,3 +21,6 @@ h2 {
   float: right;
   padding-right: 300px;
 }
+img.walrus {
+  display: none;
+}

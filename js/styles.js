@@ -6,6 +6,7 @@ jQuery("h1").click(function() {
 
 jQuery("p").click(function() {
   alert("Mustard, SIT!");
+  alert("Mustard, STAY!");
 });
 
 jQuery("img").click(function() {
@@ -25,6 +26,4 @@ jQuery("h2").click(function() {
   var stringLength = sentence.length;
   var middleLetter =sentence.charAt(stringLength /2);
   alert(middleLetter+sentence);
-});
-
 });
