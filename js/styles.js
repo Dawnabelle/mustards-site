@@ -21,6 +21,10 @@ jQuery("h2").click(function() {
   alert(lastFirst.toUpperCase());
   var lastFirst = firstLast.charAt(1) + firstLast.charAt(0);
   alert(lastFirst.toUpperCase());
+  alert(sentence + lastFirst.toUpperCase());
+  var stringLength = sentence.length;
+  var middleLetter =sentence.charAt(stringLength /2);
+  alert(middleLetter+sentence);
 });
 
 });
