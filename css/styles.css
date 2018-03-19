@@ -1,0 +1,23 @@
+body {
+  background-color: #0c4746;
+  color: #84f9f7;
+  padding: 10px;
+}
+
+.jumbotron {
+  background-color: #14093d;
+}
+p {
+  color: #1bbab7;
+  font-size: 25px;
+}
+img {
+  float: left;
+  width: 50%;
+  border-radius: 3px;
+  padding: 10px;
+}
+h2 {
+  float: right;
+  padding-right: 300px;
+}
